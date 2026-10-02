@@ -1,42 +1,77 @@
 # Mohsen Fazeli
 
-Economist and data analyst focused on **passenger transportation markets**, **Canada / British Columbia economic monitoring**, and **applied analytics**.
+Economist and data analyst focused on passenger transportation economics, Canada / British Columbia macroeconomic monitoring, and applied analytics.
 
-I build reproducible **R / Python / SQL** workflows, interactive dashboards, and clear decision briefs from public and operational data.
+I build reproducible R / Python / SQL workflows, interactive dashboards, and decision-ready summaries from public and operational data.
 
 ---
 
-## Focus areas
+## About
 
-- Passenger transportation economics (taxi, TNS, shuttle, accessibility)
-- Canada and BC macroeconomic & industry monitoring
-- Cost indices, demand indicators, and rate analysis
-- Reproducible analytics and automated reporting
+I work at the intersection of:
+- transportation economics
+- public policy and market monitoring
+- macroeconomic trend analysis
+- applied data storytelling
+
+My work focuses on turning public and operational data into practical insights for:
+- cost monitoring
+- market change analysis
+- transportation service economics
+- decision support and reporting
+
+---
+
+## Core focus areas
+
+- Passenger transportation economics
+  - taxi and TNS markets
+  - fleet cost drivers
+  - labor and operating costs
+  - demand and pricing dynamics
+- Canada and British Columbia economic monitoring
+  - inflation and prices
+  - trade and macro indicators
+  - industry activity
+  - regional economic conditions
+- Reproducible analytics and automation
+  - data pipelines
+  - interactive dashboards
+  - public data workflows
+  - reporting and monitoring tools
 
 ---
 
 ## Featured public projects
 
 | Project | Description |
-|---------|-------------|
-| [TransPax-Economic-Monitor](https://github.com/Mohsenfazeli/TransPax-Economic-Monitor) | Interactive monitor of passenger transportation cost drivers, fleet inflation, labor, and demand for BC using open StatCan and Bank of Canada data |
-| [canada_economic_monitor](https://github.com/Mohsenfazeli/canada_economic_monitor) | Python economic dashboard tracking Canada–U.S. trends, industry activity, construction, costs, and trade |
-| [canada-economic-dashboard](https://github.com/Mohsenfazeli/canada-economic-dashboard) | Macroeconomic and industry dashboard for Canada–U.S. inflation, rates, trade, and strategy (StatCan & FRED) |
-| [TCI-Dash](https://github.com/Mohsenfazeli/TCI-Dash) | R Shiny Taxi Cost Index dashboard for five BC regions using live Statistics Canada series |
-
-Additional applied portfolio work (methodology summaries and code patterns) lives in private repositories on this account.
+|---|---|
+| [TransPax-Economic-Monitor](https://github.com/Mohsenfazeli/TransPax-Economic-Monitor) | Interactive monitor of passenger transportation cost drivers, labor, fleet inflation, and demand in British Columbia |
+| [canada_economic_monitor](https://github.com/Mohsenfazeli/canada_economic_monitor) | Python dashboard tracking Canada–U.S. macro and industry trends using public economic data |
+| [canada-economic-dashboard](https://github.com/Mohsenfazeli/canada-economic-dashboard) | Macro and industry dashboard for inflation, rates, trade, and strategy using Canadian and U.S. indicators |
+| [TCI-Dash](https://github.com/Mohsenfazeli/TCI-Dash) | R Shiny dashboard for tracking taxi cost index trends across BC regions |
 
 ---
 
 ## Skills
 
-- **Languages:** R, Python, SQL
-- **Analytics:** econometrics, discrete choice, price elasticity, cost indices, demand modeling
-- **Data:** Statistics Canada (cansim / WDS), Bank of Canada, FRED, operational trip/fleet data
-- **Delivery:** Shiny, interactive dashboards, automated reports, reproducible pipelines
+- Languages: R, Python, SQL
+- Data sources: Statistics Canada, Bank of Canada, FRED, operational datasets
+- Tools: Shiny, Plotly, pandas, tidyverse, data pipelines
+- Analytics: cost indices, time-series analysis, economic monitoring, dashboarding
+- Delivery: reproducible workflows, interactive reporting, decision support
 
 ---
 
-## Portfolio & contact
+## Portfolio
 
-This GitHub account is my public portfolio of analytics tooling and economic monitoring work. Browse the pinned repositories above, or open an issue on any public project to reach me.
+This GitHub account is a public portfolio of analytics tooling and economic monitoring work.
+
+Browse the pinned repositories above or open an issue in any public project to get in touch.
+
+---
+
+## Contact
+
+- GitHub: [@Mohsenfazeli](https://github.com/Mohsenfazeli)
+- Public projects: see pinned repositories above

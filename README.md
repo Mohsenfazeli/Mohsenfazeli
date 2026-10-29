@@ -2,7 +2,7 @@
 
 **Economics · Strategy · Decision Support · Financial Modelling · Project Delivery · Applied Analytics**
 
-Economic Analyst at the Passenger Transportation Board in Victoria, BC · MA Economics (University of Victoria) · PMP
+Economist at the Passenger Transportation Board in Victoria, BC · MA Economics (University of Victoria) · PMP
 
 I turn financial, market and operational evidence into scenario models, forecasts and KPI frameworks that executives and Boards can act on.
 

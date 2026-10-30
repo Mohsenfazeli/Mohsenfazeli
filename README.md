@@ -1,10 +1,18 @@
-# Mohsen Fazeli
+# Mohsen Fazeli, MA, PMP
 
-**Economics · Strategy · Decision Support · Financial Modelling · Project Delivery · Applied Analytics**
+**Economist building data and AI tools for public policy.**
 
-Economist at the BC Attorney General · MA Economics (University of Victoria) · PMP
+Economist, BC Ministry of Attorney General · PMP · MA Economics (UVic) · Victoria, BC
 
-I turn financial, market, and operational evidence into scenario models, forecasts, and KPI frameworks that executives and Boards can act on.
+I turn administrative data into decision-ready evidence: market monitoring, pricing models, labour-market analysis, and AI assistants that put that evidence in front of decision-makers.
+
+## Leadership
+
+- **Analytical frameworks in government:** Built the indicator framework, data-quality controls, and dashboards used to monitor BC's taxi and ride-hailing markets, from the province down to individual companies.
+- **Evidence-based pricing:** Developed the cost model behind evidence-based taxi rate bands, and analysed how minimum-wage and distance-allowance rules affect app-based drivers' earnings.
+- **AI adoption:** Leading my organization's adoption of generative AI, including an internal analytics assistant with human-review controls. Now building a team of AI agents for economic research and policy analysis.
+- **Teams and teaching:** Taught ECON 103 at the University of Victoria to about 243 students, with a team of six TAs.
+- **Professional community:** PMP, and Director of Academics on the PMI Vancouver Island Chapter board.
 
 ## What I do
 
@@ -34,4 +42,4 @@ Data: Statistics Canada, IRCC, Bank of Canada, FRED
 
 ## Contact
 
-[Website](https://mohsenfazeli-website.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohsen-fazeli-69ab271b2/) · [mohsenfazzeli@gmail.com](mailto:mohsenfazzeli@gmail.com) · Victoria, BC
+[Website](https://mohsenfazeli-website.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohsen-fazeli-ma-pmp-69ab271b2/) · [mohsenfazzeli@gmail.com](mailto:mohsenfazzeli@gmail.com) · Victoria, BC

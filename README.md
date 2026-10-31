@@ -10,7 +10,7 @@ I turn administrative data into decision-ready evidence: market monitoring, pric
 
 - **Analytical frameworks in government:** Built the indicator framework, data-quality controls, and dashboards used to monitor BC's taxi and ride-hailing markets, from the province down to individual companies.
 - **Evidence-based pricing:** Developed the cost model behind evidence-based taxi rate bands, and analysed how minimum-wage and distance-allowance rules affect app-based drivers' earnings.
-- **AI adoption:** Leading my organization's adoption of generative AI, including an internal analytics assistant with human-review controls. Now building a team of AI agents for economic research and policy analysis.
+- **AI adoption:** Leading my organization's adoption of generative AI, including an internal analytics assistant with human-review controls. Now running [a team of AI agents](https://github.com/Mohsenfazeli/econ-policy-agents) for economic research and policy analysis.
 - **Teams and teaching:** Taught ECON 103 at the University of Victoria to about 243 students, with a team of six TAs.
 - **Professional community:** PMP, and Director of Academics on the PMI Vancouver Island Chapter board.
 
@@ -20,6 +20,15 @@ I turn administrative data into decision-ready evidence: market monitoring, pric
 - **Forecasting and planning:** multi-year demand and capacity frameworks; enrolment and workforce projections.
 - **Decision support:** KPI frameworks, standard economic assessments, and briefings for Boards and executives.
 - **Reproducible analytics and delivery:** tested data pipelines and dashboards built on official open data, plus scoping and cross-functional delivery of automation projects.
+
+## Featured: an AI agent team run like a public-service unit
+
+**[econ-policy-agents](https://github.com/Mohsenfazeli/econ-policy-agents)** is an 11-agent team I designed to produce economic analysis and policy briefings, organized the way a real analysis unit is.
+
+- **Roles:** a Lead PM coordinates a Research Librarian, Data Engineer, Econometrician, Applied Economist, Policy Designer, Financial Modeller, Dataviz Builder, Writer, Automation Engineer and an independent QA Reviewer. Only the roles a task needs are used.
+- **Governance:** a charter, decision rights (RACI), confidentiality and AI-use policies, and a communication protocol.
+- **Quality gates:** every deliverable passes QA review, and I remain the final approver before anything is used.
+- **Reusable know-how:** skills, step-by-step processes, templates and a context library of Canadian and B.C. data sources, with a worked example on public Statistics Canada data.
 
 ## Working examples
 
